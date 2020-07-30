@@ -14,7 +14,7 @@
           <span style="color:red">attention au totaux</span> !
         </li>
         <li>
-          Tout les calculs se font dans le navigateur, il n'y a aucun échange sur le réseau. <span style="color:orange">Si le fichier est gros, c'est votre ordinateur qui ralentit</span> :) <span style="color:green">Mais niveau confidentialités des données c'est safe.</span>
+          Tout les calculs se font dans le navigateur, il n'y a aucun échange sur le réseau. <span style="color:orange">Si le fichier est gros, c'est votre ordinateur qui ralentit</span> :) <span style="color:green">Mais niveau confidentialité des données c'est safe.</span>
         </li>
       </ul>
     </div>
